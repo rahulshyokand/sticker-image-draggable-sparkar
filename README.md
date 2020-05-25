@@ -1,4 +1,4 @@
-# Draggable and Panable Image Sticker Filter in SparkAR
+# Draggable and Pannable Image Sticker Filter in SparkAR
 This SparkAR Project will allow you to have desired image in as Sticker
 ## How to use this Repo in Spark AR?
 This is easy, clone or download the zip of this repo and open the .arproj file with SparkAR Application
